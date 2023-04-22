@@ -2,8 +2,8 @@
   "schema_version": "v1",
   "name_for_model": "disclosure_db",
   "name_for_human": "K-Disclosure Plugin",
-  "description_for_model": "Use this tool to get up to date information about corporate financial information located in South Korea.",
-  "description_for_human": "Up to date information about corporate financial information located in South Korea.",
+  "description_for_model": "Use this tool to get up-to-date information about corporate financial information released in South Korea.",
+  "description_for_human": "Up-to-date information about corporate financial information released in South Korea.",
   "auth": {
     "type": "user_http",
     "authorization_type": "bearer"
